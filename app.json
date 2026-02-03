@@ -17,7 +17,7 @@
   "SESSION_ID": {
     "description": "Must begin with 'JUNE-MD:~'.",
     "value": "",
-    "required": true
+    "required": 'false'
   }
 },  
   "formation": {
